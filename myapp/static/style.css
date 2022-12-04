@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+.nav-bar{
+    background-color: grey;
+    height: 2.5rem;
+}
+.nav-bar-links{
+    display: inline-block;
+    color: aquamarine;
+    padding-left: 15%;
+    font-size: 1.5rem;
+    padding-top: 0.5rem;
+}
+.text-input{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-size: 1.1rem;
+    color: brown;
+}
